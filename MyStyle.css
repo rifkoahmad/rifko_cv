@@ -1,0 +1,16 @@
+.profile-picture {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.profile-picture img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
+.card {
+    max-height: 100%;
+}
+
+
